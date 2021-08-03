@@ -1,4 +1,4 @@
 # KanoonInternship
 Set your weekly Reports in here
 # Todo
-Download tempalte and upload your weekly reports in your own folders!
+Download tempalte "name.xlsx"and upload your weekly reports in your own folders!
